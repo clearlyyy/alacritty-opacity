@@ -11,3 +11,6 @@ now your alacritty.yml file location has been saved.
 
 and you can run "opacity <0-100>"
 and it will change your terminals opacity, without restarting anything
+
+NOTE:
+your alacritty.yml file must have an "opacity: <number>" flag in it already
